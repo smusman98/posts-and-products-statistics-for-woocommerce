@@ -3,14 +3,14 @@
  * Plugin Name: Posts and Products Statics For WooCommerce
  * Plugin URI: https://www.scintelligencia.com/
  * Author: SCI Intelligencia
- * Description:
+ * Description: Posts and Products Statistics Counter for WooCommerce, Track your daily Products and Posts Views by Looking Graph.
  * Version: 1.1
  * Author: Syed Muhammad Usman
  * Author URI: https://www.linkedin.com/in/syed-muhammad-usman/
  * License: GPL v2 or later
- * Stable tag: 1.1
+ * Stable tag: 1.0
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Tags: WC, posts, products, views, counter, track
+ * Tags: WooCommerce, posts, products, Statistics, counter, track
  * @author Syed Muhammad Usman
  * @url https://www.fiverr.com/mr_ussi
  * @version 1.0
